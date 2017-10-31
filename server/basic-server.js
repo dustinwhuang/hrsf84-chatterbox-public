@@ -30,5 +30,5 @@ app.post('/classes/messages', handler.handlePost);
 app.put('/classes/messages', handler.handlePut);
 app.delete('/classes/messages', handler.handleDelete);
 
-app.listen(3000);
+app.listen(process.env.PORT || 3000);
 
