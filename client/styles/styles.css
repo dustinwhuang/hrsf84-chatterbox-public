@@ -13,6 +13,8 @@ body {
     padding: 50px 60px;
     border: solid #ddd;
     border-width: 0 1px 1px 1px;
+    max-height: 600px;
+    overflow-y: scroll;
 }
 
 #main h1 {
@@ -60,17 +62,13 @@ form input[type=text] {
 }
 
 .chat {
-    padding: 5px;
-    margin-bottom: 5px;
-    background-color: #eee;
+    padding: 7px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgb(215, 215, 215);
 }
 
-.chat .username {
+.username {
     font-weight: 800;
-}
-
-.chat:hover {
-    background-color: #ddd;
 }
 
 .spinner {
@@ -88,3 +86,13 @@ form input[type=text] {
     background-color: #0090da;
 }
 
+.time {
+  float: right;
+  font-size: 12px;
+  color: rgb(135, 135, 135);
+}
+
+.msg {
+  margin: 0px;
+  margin-top: 7px;
+}

@@ -1,0 +1,7 @@
+{"username":"chris","text":"lobby","roomname":"lobby","objectId":1,"createdAt":"2017-11-01T00:27:58.961Z"}
+{"username":"chris","text":"annoucements","roomname":"annoucements","objectId":2,"createdAt":"2017-11-01T00:28:10.361Z"}
+{"username":"chris","text":"hi","roomname":"chatter","objectId":3,"createdAt":"2017-11-01T00:28:17.427Z"}
+{"username":"chris","text":"some url","roomname":"helpful-links","objectId":4,"createdAt":"2017-11-01T00:28:27.123Z"}
+{"username":"chris","text":"shout out to @dustin for being a dope partner","roomname":"gratitude","objectId":5,"createdAt":"2017-11-01T00:28:41.434Z"}
+{"username":"chris","text":"critique your pair brutally here","roomname":"pair_feedback","objectId":6,"createdAt":"2017-11-01T00:28:59.051Z"}
+{"username":"chris","text":"do fizzbuzz in 2 minutes","roomname":"interview-prep","objectId":7,"createdAt":"2017-11-01T00:29:11.155Z"}
